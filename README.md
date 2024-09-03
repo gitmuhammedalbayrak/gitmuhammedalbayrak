@@ -8,11 +8,13 @@
 
 <p align="left">
 
-Greetings! I'm Muhammed, a seasoned Senior Software Engineer proficient in Python, C++, C#. My expertise lies in the captivating realms of AR, Machine Learning, Deep Learning, and Computer Vision. Engaging in extensive DevOps and MLOps practices further complements my skill set.
+Greetings! I'm Muhammed Albayrak, a versatile Software Developer and Systems Analyst with strong expertise in C++, C#, Python, and .NET. My passion lies in creating innovative solutions across various domains, including IoT, smart card systems, and real-time data processing.
 
-In addition to my diverse skill set, I am actively contributing to a computer vision project named Supervision. Supervision is dedicated to crafting reusable computer vision tools tailored to a wide array of needs. This project embodies my commitment to advancing the field of computer vision, offering robust solutions that empower developers and researchers alike.
+I have hands-on experience in developing applications that bridge the gap between hardware and software, such as integrating smart card readers and exploring unique time-keeping systems like Classical Turkish Time. My projects reflect a deep understanding of both the technical and conceptual aspects of software development, from embedded systems to cloud computing.
 
-I am also contributing various FLOSS and OSS projects around GitHub/Gitlab/Pagure and other platforms to make everyone and developers lives better.
+During my time at Teknopalas and Evodice, I refined my skills in hardware-software integration, project management, and leading teams to deliver impactful results. I enjoy tackling complex challenges, whether it's enhancing system efficiencies or pioneering new approaches to time and data management.
+
+Beyond my professional work, I actively contribute to open-source projects on GitHub, developing tools and applications that benefit the broader tech community. My contributions aim to enhance collaboration, improve efficiency, and push the boundaries of what's possible in software development.
 
 </p>
 
