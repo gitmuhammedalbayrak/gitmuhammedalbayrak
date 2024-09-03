@@ -20,7 +20,7 @@ I am also contributing various FLOSS and OSS projects around GitHub/Gitlab/Pagur
 <br>
 <p align="center">
   <img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=gitmuhammedalbayrak&show_icons=true&theme=dark" alt="Muhammed's GitHub stats"></img>
-  <img width="50%" src="https://ghstats.onuralpsezer.com/?user=onuralpszr&theme=dark&hide_border=false" alt="Muhammed's GitHub Streak stats"></img>
+  <img width="50%" src="https://ghstats.onuralpsezer.com/?user=gitmuhammedalbayrak&theme=dark&hide_border=false" alt="Muhammed's GitHub Streak stats"></img>
 </p>
 
 Here is my Arsenal Tools and Skills I use;
