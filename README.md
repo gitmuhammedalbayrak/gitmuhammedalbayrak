@@ -1,23 +1,14 @@
 <p align="center">
-<a href="https://github.com/onuralpszr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Onuralp;Nice+to+meet+you!" alt="Typing SVG" /></a>
+<a href="https://github.com/gitmuhammedalbayrak"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Onuralp;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-    <a href="https://twitter.com/onuralpszr"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/osezer/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=Linkedin&logoColor=white"></a>
-    <a href="https://user-badge.committers.top/turkey_public/onuralpszr">
-    <img alt="commiter" src="https://user-badge.committers.top/turkey_public/onuralpszr.svg" alt="committers.top badge"> </a>
-    <a href="https://huggingface.co/onuralpszr"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FF9A00?logo=HuggingFace&logoColor=white"></a>
-
 </p>
 
 <p align="left">
 
-Greetings! I'm Onuralp, a seasoned Senior Software Engineer proficient in Python, Kotlin, C++, Rust and OpenCV. My expertise lies in the captivating realms of AR, Machine Learning, Deep Learning, and Computer Vision. Engaging in extensive DevOps and MLOps practices further complements my skill set.
-
-I am a long term <a href="https://fedoraproject.org/wiki/User:onuralpszr"> Contributor and Mindshare Member,Fedora KDE SIG Member,Fedora Website and Apps Team Member and RPM Packager</a> at Fedora Project. I am also member of <a href="https://github.com/gdgsamsun">Samsun - Google Developer Group</a> as team member and speaker related around Machine learning and Computer Vision.
-
-Professionally, I use Python development on backend side of works and on mobile side I used Kotlin and flutter with Google technologies such as <a href="https://developers.google.com/ar">ARCore</a>,<a href="https://mediapipe.dev/">Mediapipe</a>,<a href="https://firebase.google.com/">Firebase</a>,<a href="https://flatbuffers.dev/">FlatBuffers</a> and many others. On ML sides I used <a href="https://www.tensorflow.org">Tensorflow</a>,<a href="https://www.tensorflow.org/tensorboard">Tensorboard</a>,<a href="https://keras.io/">Keras</a>,<a href="https://github.com/google/jax">Jax</a>,<a href="https://www.pytorch.org">Pytorch</a>. These tools enable me to incorporate ML/DL/AI into apps and products. Additionally, I use the Unity engine for creating AR and ML applications.
+Greetings! I'm Muhammed, a seasoned Senior Software Engineer proficient in Python, C++, C#. My expertise lies in the captivating realms of AR, Machine Learning, Deep Learning, and Computer Vision. Engaging in extensive DevOps and MLOps practices further complements my skill set.
 
 In addition to my diverse skill set, I am actively contributing to a computer vision project named Supervision. Supervision is dedicated to crafting reusable computer vision tools tailored to a wide array of needs. This project embodies my commitment to advancing the field of computer vision, offering robust solutions that empower developers and researchers alike.
 
