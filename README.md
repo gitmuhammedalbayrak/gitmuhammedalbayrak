@@ -100,5 +100,5 @@ Here is my Arsenal Tools and Skills I use;
 <br>
 <p align="center">
   <img width="45%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=gitmuhammedalbayrak&show_icons=true&theme=dark" alt="Muhammed's GitHub stats"></img>
-  <img width="49%" src="https://ghstats.onuralpsezer.com/?user=gitmuhammedalbayrak&theme=dark&hide_border=false" alt="Muhammed's GitHub Streak stats"></img>
+  <img width="48%" src="https://ghstats.onuralpsezer.com/?user=gitmuhammedalbayrak&theme=dark&hide_border=false" alt="Muhammed's GitHub Streak stats"></img>
 </p>
