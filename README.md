@@ -86,14 +86,6 @@ Here is my Arsenal Tools and Skills I use;
 
 <h3 align="left">Platforms</h3>
 <p>
-
-    
-<br>
-<br>
-<p align="center">
-  <img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=gitmuhammedalbayrak&show_icons=true&theme=dark" alt="Muhammed's GitHub stats"></img>
-  <img width="50%" src="https://ghstats.onuralpsezer.com/?user=gitmuhammedalbayrak&theme=dark&hide_border=false" alt="Muhammed's GitHub Streak stats"></img>
-</p>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23F7DF1E.svg?logo=Linux&logoColor=black"></a>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-%2391E6.svg?logo=Windows&logoColor=white"></a>
 </p>
@@ -102,4 +94,11 @@ Here is my Arsenal Tools and Skills I use;
 <p>
     <a href="#"><img alt="Azure" src="https://img.shields.io/badge/AzureCloud-232F3E.svg?logo=azuredevops&logoColor=white"></a>
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google-Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
+</p>
+
+<br>
+<br>
+<p align="center">
+  <img width="35%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=gitmuhammedalbayrak&show_icons=true&theme=dark" alt="Muhammed's GitHub stats"></img>
+  <img width="35%" src="https://ghstats.onuralpsezer.com/?user=gitmuhammedalbayrak&theme=dark&hide_border=false" alt="Muhammed's GitHub Streak stats"></img>
 </p>
